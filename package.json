@@ -1,0 +1,14 @@
+{
+  "name": "reproduce-typescript-46611",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc"
+  },
+  "author": "loynoir",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.4.4"
+  }
+}
